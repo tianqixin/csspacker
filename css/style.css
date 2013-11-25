@@ -1,0 +1,48 @@
+.sitetip {
+	font-size: 14px;
+	color: #444;
+	margin-bottom: 12px;
+}
+ textarea {
+	font-size: 12px;
+	font-family: microsoft yahei;
+	color: #444;
+	overflow: auto;
+	vertical-align: top;
+}
+.tarea {
+	width: 99%;
+	height: 220px;
+	border: #e6e6e6 1px solid;
+	border-color: #ddd #e6e6e6 #e6e6e6 #ddd;
+	margin-bottom: 12px;
+	box-shadow: inset 1px 1px 1px #eee;
+	padding: 4px;
+	font-size: 12px;
+	line-height: 18px;
+	border-radius: 2px;
+}
+.subbtn {
+	margin-bottom: 20px;
+}
+.sbtn {
+	position: relative;
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 12px;
+	font-weight: bold;
+	height: 27px;
+	line-height: 27px;
+	min-width: 52px;
+	padding: 0 12px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 2px;
+	border: 1px solid #ddd;
+	color: #666;
+	background-color: #f5f5f5;
+	background: -webkit-linear-gradient(top, #F5F5F5,#F1F1F1);
+	background: -moz-linear-gradient(top, #F5F5F5,#F1F1F1);
+	background: linear-gradient(top, #F5F5F5,#F1F1F1);
+}
